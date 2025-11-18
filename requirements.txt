@@ -1,0 +1,19 @@
+# --- Telegram Bot ---
+# Wrapper for the Telegram Bot API (v20+)
+python-telegram-bot
+
+# --- API Server ---
+# Fast web framework for building the API
+fastapi
+# ASGI server to run the FastAPI application
+uvicorn
+
+# --- Scraper & Network ---
+# Modern HTTP client for fetching data (async support)
+httpx
+# Library for parsing HTML (scraping CoinMarketCap/Gold)
+beautifulsoup4
+
+# --- Configuration ---
+# For managing settings and reading .env files safely
+pydantic-settings

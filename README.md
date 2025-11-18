@@ -16,5 +16,6 @@ A complete ecosystem for real-time cryptocurrency and gold price monitoring, fea
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/REPO_NAME.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
+   git clone [https://github.com/sepehrrr4/MarketPulseBot.git](https://github.com/sepehrrr4/MarketPulseBot.git)
+
    cd REPO_NAME

@@ -25,6 +25,8 @@ A complete ecosystem for real-time cryptocurrency and gold price monitoring, fea
 - **🛡 Resilience:** Uses atomic file writes to prevent race conditions between scraper and bot.
 - 
 
+![IMG_20251119_032044_804](https://github.com/user-attachments/assets/60997bd3-d2eb-43de-b0dd-6ccf983500cf)
+
 ## 🛠 Installation
 
 1. **Clone the repository:**
@@ -32,4 +34,6 @@ A complete ecosystem for real-time cryptocurrency and gold price monitoring, fea
    git clone [https://github.com/sepehrrr4/MarketPulseBot.git](https://github.com/sepehrrr4/MarketPulseBot.git)
 
    cd REPO_NAME
+
+
 

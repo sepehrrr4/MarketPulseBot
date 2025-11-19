@@ -2,6 +2,18 @@
 
 A complete ecosystem for real-time cryptocurrency and gold price monitoring, featuring a multi-source scraper, a FastAPI backend, and a fully interactive Telegram Bot.
 
+# Crypto Price Watcher & Telegram Bot 🚀
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-@pricee__mebot-blue?style=for-the-badge&logo=telegram)](https://t.me/pricee_mebot)
+
+A complete ecosystem for real-time cryptocurrency and gold price monitoring, featuring a multi-source scraper, a FastAPI backend, and a fully interactive Telegram Bot.
+
+## 🔴 Live Demo
+**Try the bot running in production here:**
+👉 **[Click to Open: @pricee_mebot](https://t.me/pricee_mebot)**
+
+---
+
 ## 🌟 Features
 
 - **🕷 Multi-Layer Scraper:** Fetches prices from Binance, Mexc, LBank, and CoinGecko with smart fallback logic to ensure 100% uptime.
@@ -11,6 +23,7 @@ A complete ecosystem for real-time cryptocurrency and gold price monitoring, fea
   - Bilingual support (English & Persian).
 - **⚡️ FAST API:** Exposes real-time price data via REST endpoints.
 - **🛡 Resilience:** Uses atomic file writes to prevent race conditions between scraper and bot.
+- 
 
 ## 🛠 Installation
 
@@ -19,3 +32,4 @@ A complete ecosystem for real-time cryptocurrency and gold price monitoring, fea
    git clone [https://github.com/sepehrrr4/MarketPulseBot.git](https://github.com/sepehrrr4/MarketPulseBot.git)
 
    cd REPO_NAME
+
